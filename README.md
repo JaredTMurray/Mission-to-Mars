@@ -15,14 +15,14 @@ Jupyter [Mars Data Part 1](#) notebook contains the code that scrapes the Mars n
 A Jupyter [Mars temperture Data Part 2](#) notebook containing code that scrapes the [Mars weather data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) and that cleans, visualizes, and analyzes that data.
 -	From the code In [2],[3] and [4], used the Beautiful Soap and two for loops to go through the HTML table were used, to find the row and header data in In [4]. the data from the HTM: table was extracted into mars_df dataframe. In [7] code was  used astpe to set the columns headers to the correct headings and data types. See Out [7].
 
--- id                           int32
---   terrestrial_date    datetime64[ns]
--- sol                          int32
--- ls                           int32
--- month                        int32
--- min_temp                   float64
--- pressure                   float64
--- dtype: object
+ 1. id                           int32
+ 2.  terrestrial_date    datetime64[ns]
+ 3. sol                          int32
+ 4. ls                           int32
+ 5. month                        int32
+ 6. min_temp                   float64
+ 7. pressure                   float64
+ 8. dtype: object
 -	The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (40 points)
  -	How many months exist on Mars?
  - 	Which month, on average, has the lowest temperature? The highest?
