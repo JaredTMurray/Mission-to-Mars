@@ -5,7 +5,7 @@ This is a full web-scraping and data analysis for the mission to Mars. I have id
 
 ## Results:
 ### Deliverable 1: 
-A Jupyter notebook containing code that scrapes the Mars news titles and preview text.
+Jupyter [MarsData Part 1](#) notebook contains the code that scrapes the Mars news titles and preview text.
 -	Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). (10 points)
 -	The titles and preview text of the news articles were scraped and extracted. (20 points)
 -	The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. (10 points)
