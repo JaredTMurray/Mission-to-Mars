@@ -23,7 +23,7 @@ A Jupyter [Mars temperture Data Part 2](#) notebook containing code that scrapes
  6. min_temp                   float64
  7. pressure                   float64
  8. dtype: object
--	The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (40 points)
+###	Data analysis 
  -	How many months exist on Mars?
  - 	Which month, on average, has the lowest temperature? The highest?
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
