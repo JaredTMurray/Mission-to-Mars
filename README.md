@@ -13,7 +13,7 @@ In[7], Import Splinter and BeautifulSoup, In[8] set the executable path and In[1
 
 
 ### Deliverable 2: 
-A Jupyter [Mars temperture Data Part 2]()https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb notebook containing code that scrapes the [Mars weather data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) and that cleans, visualizes, and analyzes that data.
+A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb) notebook containing code that scrapes the [Mars weather data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) and that cleans, visualizes, and analyzes that data.
 -	From the code In [2],[3] and [4], used the Beautiful Soap and two for loops to go through the HTML table were used, to find the row and header data in In [4]. the data from the HTM: table was extracted into mars_df dataframe. In [7] code was  used astpe to set the columns headers to the correct headings and data types. See Out [7].
 
  1. id                           int32
