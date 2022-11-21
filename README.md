@@ -36,7 +36,8 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
   -	Lowest atmospheric pressure occured in the 6th month of the Martian calendar at 745. The Highest atmospheric pressure occured in the 9th Martian month at 913. 
 
- - ![](#)
+ - ![](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_avg_pressure_month.png).
+ - 
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 -	The DataFrame was exported into a CSV file. (5 points)
 
