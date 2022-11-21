@@ -28,6 +28,7 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  -	How many months exist on Mars?
   -	There are **12 Martion Months** existing in the dataframe Mars_df. See Out [11](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb) and Out [22](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb), which shows the calculation for each month along with total amount of days.
  - 	Which month, on average, has the lowest temperature? The highest?
+  - 	Lowest Temerture occured in the month of January 2017 at -75
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 -	The DataFrame was exported into a CSV file. (5 points)
