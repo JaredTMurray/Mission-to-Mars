@@ -26,6 +26,7 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  8. dtype: object
 ###	Data analysis 
  -	How many months exist on Mars?
+   -	Mars_df, the dataframe was created to hold all the information that was scrape from [Mars weather data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) website
  - 	Which month, on average, has the lowest temperature? The highest?
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
