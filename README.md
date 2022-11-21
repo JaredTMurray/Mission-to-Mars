@@ -44,7 +44,7 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
 
 
 ## Summary:
-
+At a high level, Mars' atmosphere warmest day is far colder than the earth's coldest day by somewhat -50 degrees. The martian year is approximately double 1 earth year. Standard deviation of 25% of the dataset for Mars occurs in the third month at -80 degrees, 800 pressure
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 Submission
 
