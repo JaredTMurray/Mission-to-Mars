@@ -1,7 +1,7 @@
 # Module_11_Challenge
 
 ## Mission to Mars Overview:
-This is a full web-scraping and data analysis for the mission to Mars. I have identify HTML elements on the [Mars News](https://redplanetscience.com/) and [Mars Temperature Data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) webpages,  to identify their id and class attributes, and use this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.  These include HTML tables and recurring elements, like multiple news articles. I have  scrape, organize, analyze, and visualize the data for this Challenge..
+This is a full web-scraping and data analysis for the mission to Mars. I have identified HTML elements on the [Mars News](https://redplanetscience.com/) and [Mars Temperature Data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) webpages,  to identify their id and class attributes. I used this knowledge to extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.  These include HTML tables and recurring elements, like multiple news articles. I have  scraped, organized, analyzed, and visualized the data for this Challenge.
 
 ## Results:
 ### Deliverable 1: 
