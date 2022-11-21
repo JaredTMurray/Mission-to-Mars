@@ -40,7 +40,7 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  - 
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
  -	Theres are 687 earth days in a single Martian year. 
--	The DataFrame was exported into a [CSV file](#). To veiw the CSV
+-	The DataFrame was exported into a [CSV file](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_temperature.csv).
 
 
 ## Summary:
