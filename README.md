@@ -30,21 +30,20 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  - 	Which month, on average, has the lowest temperature? The highest?
   - 	Highest Temperature occured in the month of 7th, January 2017 at -62 followed right after with November 28th, 2016 at -63.
   - Lowest Temperature occured in the month of 9th December, 2013 at -90 and followed closely with 16th February, 2014 at -89. See image below 
-  - 
-  - ![](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_warmest_coldest_day.png).
-  - 
+   
+  ![](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_warmest_coldest_day.png).
+   
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
   -	Lowest atmospheric pressure occured in the 6th month of the Martian calendar at 745. The Highest atmospheric pressure occured in the 9th Martian month at 913. 
 
- - ![](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_avg_pressure_month.png).
- - 
+  ![](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_avg_pressure_month.png).
+ 
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
  -	Theres are 687 earth days in a single Martian year. 
 -	The DataFrame was exported into a [CSV file](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/analysis/mars_temperature.csv).
 
 
 ## Summary:
-At a high level, Mars' atmosphere warmest day is far colder than the earth's coldest day by somewhat -50 degrees. The martian year is approximately double 1 earth year. Standard deviation of 25% of the dataset for Mars occurs in the third month at -80 degrees, 800 pressure
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-Submission
+At a high level, Mars' atmosphere warmest day is far colder than the earth's coldest day by somewhat -50 degrees. The martian year is approximately double 1 earth year. Standard deviation of 25% of the dataset for Mars occurs in the third month at -80 degrees, 800 pressure, 546 sol and 78 Is. 
+
 
