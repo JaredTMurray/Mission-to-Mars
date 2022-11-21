@@ -14,7 +14,7 @@ In[7], Import Splinter and BeautifulSoup, In[8] the executable path was set and 
 
 ### Deliverable 2: 
 A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb) notebook containing code that scrapes the [Mars weather data](https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html) and that cleans, visualizes, and analyzes that data.
--	From the code In [2],[3] and [4], used the Beautiful Soap and two for loops to go through the HTML table were used, to find the row and header data in In [4]. the data from the HTM: table was extracted into mars_df dataframe. In [7] code was  used astpe to set the columns headers to the correct headings and data types. See Out [7].
+-	From the code In [2],[3] and [4], used the Beautiful Soap and two for loops to go through the HTML table were used, to find the row and header data in In [4]. The data from the HTML table was extracted into mars_df dataframe. In [7] code was  used to set the columns headers to the correct headings and data types. See Out [7].
 
  1. id                           int32
  2.  terrestrial_date    datetime64[ns]
@@ -26,9 +26,10 @@ A Jupyter [Mars temperture Data Part 2](https://github.com/JaredTMurray/Mission-
  8. dtype: object
 ###	Data analysis 
  -	How many months exist on Mars?
-  -	There are **12 Martion Months** existing in the dataframe Mars_df. See Out [11](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb) and Out [22](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb), which shows the calculation for each month along with total amount of days.
+  -	There are **12 Martian Months** existing in the dataframe Mars_df. See Out [11](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb) and Out [22](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynb), which shows the calculation for each month along with total amount of days.
  - 	Which month, on average, has the lowest temperature? The highest?
-  - 	Lowest Temerture occured in the month of January 2017 at -75
+  - 	Highest Temperature occured in the month of 7th, January 2017 at -62 followed right after with November 28th, 2016 at -63.
+  - Lowest Temperature occured in the month of 9th December, 2013 at -90 and followed closely with 16th February, 2014 at -89. See image below ![](#).
  -	Which month, on average, has the lowest atmospheric pressure? The highest?
  -	How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
 -	The DataFrame was exported into a CSV file. (5 points)
