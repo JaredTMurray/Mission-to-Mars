@@ -7,9 +7,9 @@ This is a full web-scraping and data analysis for the mission to Mars. I have id
 ### Deliverable 1: 
 Jupyter [Mars Data Part 1](https://github.com/JaredTMurray/Mission-to-Mars/blob/main/mars_data_challenge_part_1.ipynb) notebook contains the code that scrapes the Mars news titles and preview text.
 -	Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup).
-In[7], Import Splinter and BeautifulSoup, In[8] set the executable path and In[16] are code used to visit the Mars NASA news site
--	The titles and preview text of the news articles were scraped and extracted. To set up the HTML parser and to scrape an article title and it's summary text, the code in In [54], [55] and [77]  use the ,div tag  and the class "content_title" to located the the title and the summary text.
--	The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. The variable news_p were used to stored the summary of the articles. I then used a for loop to go throught the the iteriation loop, then I created an empty dictionary all_news to store the results of the news summary. See In [58], [59],[80] and was wellas the Out[80]. 
+In[7], Import Splinter and BeautifulSoup, In[8] the executable path was set and In[16] code was used to visit the Mars NASA news site
+-	The titles and preview text of the news articles were scraped and extracted. The HTML parser was set up and scrape an article title and it's summary text, the code in In [54], [55] and [77]  use the ,div tag  and the class "content_title" to located the the title and the summary text.
+-	The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. The variable news_p were used to stored the summary of the articles. I then used a for loop to go throughout the iteriation loop, then I created an empty dictionary all_news to store the results of the news summary. See In [58], [59],[80] and also the Out[80]. 
 
 
 ### Deliverable 2: 
